@@ -21,7 +21,7 @@ const Layout = ({ children }) => {
           <div className="flex items-center">
             <img
               className="h-8 w-auto"
-              src="./public/walletIcon.png"
+              src="./walletIcon.png"
               alt="Wallet Flow"
             />
             <span className="ml-2 text-xl font-bold text-primary-600">Wallet Flow</span>
