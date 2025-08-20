@@ -12,8 +12,8 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
 
 
-> Feature-rich personal finance tracker with expense logging, category-based organization, and offline download support.
-> Built with a responsive, interactive UI and integrated analytics for budgeting, savings goals, and spending insights.  
+> Feature-rich personal finance tracker including expense logging, category-based organization, and offline download support.
+> Built with a responsive, interactive UI and integrated analytics helps in budgeting, savings goals, and spending insights.  
 
 🔗 **Live Demo** → [wallet-flow](https://wallet-flow-sage.vercel.app/)  
 
