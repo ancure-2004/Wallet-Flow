@@ -1,12 +1,109 @@
-# React + Vite
+# <img src="./public/icons/favicon.svg" width="50" height="50"> Wallet Flow  
+![Status](https://img.shields.io/badge/status-active-success.svg)  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img align="right" alt="coding" width="500" src="./public/WalletFlow.gif"  >
 
-Currently, two official plugins are available:
+![Made with React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white) 
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+<br>
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+> Feature-rich personal finance tracker with expense logging, category-based organization, and offline download support.
+> Built with a responsive, interactive UI and integrated analytics for budgeting, savings goals, and spending insights.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 **Live Demo** → [wallet-flow](https://wallet-flow-sage.vercel.app/)  
+
+<br>
+
+---
+
+## 🚀 Features  
+- 📌 **Expense Tracking** – Add, edit, and delete transactions with ease  
+- 🎨 **Modern UI** – Responsive design with Tailwind CSS  
+- ✨ **Smooth Animations** – Powered by GSAP & Framer Motion  
+- 📱 **Mobile-First** – Optimized for phones and tablets  
+- 🌐 **Deployed on Vercel** for fast and reliable access  
+
+---
+
+## 🛠️ Tech Stack  
+- **Frontend:** React.js, Tailwind CSS  
+- **Animations:** GSAP, Framer Motion  
+- **Version Control:** GitHub  
+- **Deployment:** Vercel  
+
+---
+
+## 📂 Project Structure  
+```bash
+wallet-flow/
+│── src/          # React components & pages
+│── public/       # Static assets
+│── package.json  # Dependencies
+│── README.md     # Documentation
+```
+<br>
+
+---
+
+## 📸 Screenshots
+
+## Dashboard
+<img src="./public/Screenshot 2025-08-20 175949.png" >
+
+## Transaction
+<img src="./public/Screenshot 2025-08-20 175959.png" >
+
+## Budget
+<img src="./public/Screenshot 2025-08-20 180008.png" >
+
+## Settings
+<img src="./public/Screenshot 2025-08-20 180019.png" >
+
+---
+
+## 🏁 Getting Started
+
+Follow these steps to set up the project locally:
+
+---
+
+### 1️⃣ Clone the Repository and install dependencies
+```bash
+git clone https://github.com/your-username/wallet-flow.git
+cd wallet-flow
+npm install
+npm run dev
+```
+---
+
+## 🔮 Future Enhancements
+- 📱 Mobile app version (React Native)
+- ☁️ Cloud sync for transactions
+- 📈 Analytics with charts and graphs
+- 👥 Multi-user support for shared expenses
+- 🔔 Notifications & reminders
+
+---
+
+## 🤝 Contributing
+# We welcome contributions!
+- Fork the repository
+- Create a new branch (git checkout -b feature-name)
+- Make your changes and commit (git commit -m 'Add feature')
+- Push to the branch (git push origin feature-name)
+- Open a Pull Request
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+### Contact
+- 📧 ankur2004tyagi@gmail.com
+- 🔗 www.linkedin.com/in/ankur-tyagi2004
