@@ -88,7 +88,7 @@ Follow these steps to set up the project locally:
 ### 1️⃣ Clone the Repository and install dependencies
 ```bash
 git clone https://github.com/ancure-2004/Wallet-Flow-Expense-Tracker.git
-cd wallet-flow
+cd wallet-Flow-Expense-Tracker
 npm install
 npm run dev
 ```
