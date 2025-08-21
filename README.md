@@ -42,8 +42,21 @@
 ```bash
 wallet-flow/
 │── src/          # React components & pages
+│   ├── assets/
+│   ├── components/ # React components
+│   ├── context/
+│   ├── pages/
+│   ├── App.css
+│   ├── Index.css
+│   ├── main.jsx
+│   └── App.jsx    # Main app component
 │── public/       # Static assets
 │── package.json  # Dependencies
+│── package-lock.json
+│── index.html
+│── vite.config.json
+│── tailwind.config.json
+│── postcss.config.json
 │── README.md     # Documentation
 ```
 <br>
@@ -74,7 +87,7 @@ Follow these steps to set up the project locally:
 
 ### 1️⃣ Clone the Repository and install dependencies
 ```bash
-git clone https://github.com/your-username/wallet-flow.git
+git clone https://github.com/ancure-2004/Wallet-Flow-Expense-Tracker.git
 cd wallet-flow
 npm install
 npm run dev
